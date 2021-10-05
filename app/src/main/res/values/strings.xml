@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Free Online Translation</string>
+
+    <string name="app_detail">A language conversion App</string>
+    <string name="home_text">Text Translate</string>
+    <string name="home_voice">Voice Translate</string>
+    <string name="home_gallery">Gallery Translate</string>
+    <string name="fb_app_id">358353829238812</string>
+
+    <string name="suggest_feedback">FeedBack</string>
+    <string name="account_problem">Problems</string>
+    <string name="suggestion">Suggestions</string>
+    <string name="feedback_input_hint">describe the problem</string>
+    <string name="select_module">Select Module</string>
+    <string name="phone_mail_hint">Email</string>
+    <string name="submit">Submit</string>
+    <string name="module_selection">Select Module</string>
+</resources>

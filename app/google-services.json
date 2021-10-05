@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119187367425",
+    "firebase_url": "https://holiday-b7914-default-rtdb.firebaseio.com",
+    "project_id": "holiday-b7914",
+    "storage_bucket": "holiday-b7914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119187367425:android:1ad98fdedfe283034c4200",
+        "android_client_info": {
+          "package_name": "com.kali_corporation.freeonlinetranslation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119187367425-uqpfedb7n6a8q2j4hm2sn6an625tuadv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7jprTrwQFJk3vjDQkdz-2AR5mmpRXrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119187367425-uqpfedb7n6a8q2j4hm2sn6an625tuadv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

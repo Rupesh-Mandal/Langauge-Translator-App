@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#ffb30f</color>
+    <color name="colorPrimaryDark">#ffb30f</color>
+    <color name="colorAccent">#ffb30f</color>
+
+
+
+    <color name="themeColor">#ffb30f</color>
+    <color name="theam_color">#ffffff</color>
+    <color name="text_color">#000000</color>
+    <color name="darkGrey">#303030</color>
+
+    <color name="textColorPrimary">#232325</color>
+    <color name="tintColorPrimary">#0076ff</color>
+    <color name="markLayerIconColor">#e0eeff</color>
+    <color name="buttonOutlineColor">#ffb30f</color>
+    <color name="rippleColor">#f0f0f0</color>
+    <color name="transparent">#00000000</color>
+    <color name="iconColor">#ffb300</color>
+    <color name="bColor">#000000</color>
+
+    <color name="redtype">#ffb30f</color>
+    <color name="pinktype">#ffb30f</color>
+    <color name="purpletype">#452672</color>
+
+
+    <color name="color_bg_white">#FFFFFF</color>
+    <color name="color_bg_one">#0d668fff</color>
+    <color name="color_bg_two">#f2f2f2</color>
+    <color name="color_text_333">#333333</color>
+    <color name="color_text_999">#999999</color>
+    <color name="color_text_ccc">#CCCCCC</color>
+    <color name="color_text_blue">#668FFF</color>
+
+</resources>
